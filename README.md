@@ -1,2 +1,2 @@
 # hokuspokus
-Popis repa z depa
+Toto je testovací repozitář pro přednášku o Gitu.

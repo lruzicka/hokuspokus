@@ -1,4 +1,2 @@
-## The first attempt to create a GitHub page.
+## Říkanky a básničky.
 
-* This is a commit.
-* This is another commit.

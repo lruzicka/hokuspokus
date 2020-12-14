@@ -7,7 +7,7 @@ kdopak nám ji postaví
 starý pecař není doma  
 a mladý to neumí.
 
-Zavoléme komyníka  
+Zavoláme kominíka  
 ten má dobré nápady  
 on do toho dvakrát ťukne  
 a už je to hotový.

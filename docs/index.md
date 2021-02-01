@@ -15,7 +15,6 @@ on do toho dvakrát ťukne
 a už je to hotový.
 
 ### Holka modrooká
-
 Holka modrooká  
 nesedávej u potoka  
 holka modrooká  
